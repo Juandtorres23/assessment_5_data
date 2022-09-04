@@ -222,7 +222,7 @@ module.exports = {
             ('Uzbekistan'),
             ('Vanuatu'),
             ('Venezuela'),
-            ('Vietnam'),
+            ('Viet
             ('Yemen'),
             ('Zambia'),
             ('Zimbabwe');
